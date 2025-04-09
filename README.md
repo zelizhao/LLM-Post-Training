@@ -18,7 +18,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 <p align="center">
-  <img src="./Images/teasor.jpg" width="45%" hieght="50%" />
+  <img src="https://github.com/zelizhao/LLM-Post-Training/blob/main/Fig-intro.png" width="45%" hieght="50%" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
 Structural overview of post-training techniques surveyed in this study, illustrating the organization of methodologies, datasets, and applications.
@@ -81,7 +81,6 @@ Structural overview of post-training techniques surveyed in this study, illustra
 
 Contributions are welcome! If you have relevant papers, code, or insights, feel free to submit a pull request.  
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mbzuai-oryx/Awesome-LLM-Post-training&type=Timeline)](https://www.star-history.com/#mbzuai-oryx/Awesome-LLM-Post-training&Timeline)
 
 ## Citation
 
